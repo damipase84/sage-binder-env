@@ -8,6 +8,6 @@ Per accedere all'ambiente di calcolo creato da `Binder <http://mybinder.org>`_ u
 SageMath, fai click sul questo badge:
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/damipase84/sage-binder-env
+ :target: https://mybinder.org/v2/gh/damipase84/sage-binder-env/master
 
 

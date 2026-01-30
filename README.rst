@@ -14,4 +14,4 @@ La pagina web aperta, chiamata JupyterLab, ha accesso ad una macchina virtuale (
 Sono inoltre disponibili i notebook preparati per le lezioni del corso SIMat: si potranno visualizzare ed eseguire tramite JupyterLab.
 
 Si può usare questo binder per creare un nuovo notebook o modificare quelli esistenti, ma bisogna poi fare il download del notebook per salvarlo nel pc, altrimenti si perde il lavoro fatto.
-Un'alternativa che eviti questo problema è installare SageMath nel vostro computer locale, scaricare i files che trovate nella cartella notebooks, e aprire JupyterLab notebook in locale, senza usare il Binder.
+Un'alternativa è installare SageMath nel vostro computer locale, scaricare i files che trovate nella cartella notebooks, e aprire JupyterLab notebook in locale, senza usare il Binder.

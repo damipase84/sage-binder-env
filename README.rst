@@ -1,7 +1,7 @@
 Un Binder repo per l'ambiente di calcolo SageMath 
 ================================================
 
-Questo sito è un Binder repo basato su `SageMath <http://sagemath.org>`_ , permette cioè di usare SageMath online tramite JupyterLab, senza doverlo installare direttamente su pc.
+Questo sito è un Binder repo basato su `SageMath <http://sagemath.org>`_ , permette cioè di usare SageMath online tramite JupyterLab, senza dover installare Sage su pc.
 
 
 Per accedere all'ambiente di calcolo creato da `Binder <http://mybinder.org>`_ usando il linguaggio di programmazione (anche detto Kernel)
